@@ -4,10 +4,6 @@
 			<include name="*.jar" />
 		</fileset>
 	</path>
-
-	//Documentation for Property
-
-
 	
 	<target name="clean">
 		<delete dir="build" />
