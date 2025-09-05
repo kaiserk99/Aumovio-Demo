@@ -4,6 +4,8 @@
 			<include name="*.jar" />
 		</fileset>
 	</path>
+
+//Hello world!
 	
 	<target name="clean">
 		<delete dir="build" />
