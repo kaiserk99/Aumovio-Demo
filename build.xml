@@ -8,7 +8,6 @@
 	//Documentation for Property
 
 
-//Additional Data
 	
 	<target name="clean">
 		<delete dir="build" />
