@@ -5,6 +5,7 @@
 		</fileset>
 	</path>
 
+	//Documentation for bug correction
 	
 	<target name="clean">
 		<delete dir="build" />
